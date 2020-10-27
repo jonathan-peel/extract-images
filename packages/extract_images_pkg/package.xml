@@ -1,0 +1,11 @@
+<package>
+  <name>extract_images_pkg</name>
+  <version>0.1.0</version>
+  <description>
+  This package is a test for RH3.
+  </description>
+  <maintainer email="jonathan.n.peel@gmail.com">Jonathan Peel</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
